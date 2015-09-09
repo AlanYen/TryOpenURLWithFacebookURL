@@ -9,3 +9,7 @@ Try OpenURL when the opened URL is faceebook's site
 </br>
 3. 如果是 fb://profile/113655892026342         : 用 FB APP 開啟 (可進入正確粉絲頁)
 </br>
+</br>
+[FB URL Schemes List]
+</br>
+http://wiki.akosma.com/IPhone_URL_Schemes#Facebook
